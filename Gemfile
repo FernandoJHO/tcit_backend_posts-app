@@ -54,3 +54,5 @@ gem 'pg'
 gem 'rack-cors', :require => 'rack/cors'
 
 gem 'json'
+
+gem 'aws-sdk'
