@@ -3,8 +3,8 @@ require 'aws-sdk'
 class S3Client
 
     BUCKET = 'bucketfernandojho'
-    ACCESS_ID = 'AKIAI2X3B2RUE7R6MMHA'
-    SECRET_KEY = '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'
+    ACCESS_ID = 'xxxxxxxxxxxxxxxxx'
+    SECRET_KEY = 'xxxxxxxxxxxxxxxxx'
     PROFILE_NAME = 'fernandojho'
     REGION = 'us-west-1'
     AWS_URL = 'https://s3-us-west-1.amazonaws.com/'
